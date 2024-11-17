@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="128" started-at="2024-01-31T17:16:21Z" finished-at="2024-01-31T17:16:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="128" started-at="2024-01-31T17:16:21Z" finished-at="2024-01-31T17:16:22Z">
+      <class name="CoreJavaBrushups_Streams">
+        <test-method status="PASS" signature="streamCollect()" name="streamCollect" duration-ms="103" started-at="2024-01-31T17:16:21Z" finished-at="2024-01-31T17:16:22Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
